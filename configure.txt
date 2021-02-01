@@ -2,7 +2,7 @@
 # Mode 1 is to detect by white core automatically. One parameter can be set manually.
 # Mode 2 is to detect by 2 contours manually. The following thresholds need to be set.
 # Mode 3 is to detect by white core manually. The following thresholds need to be set.
-Mode = 2
+Mode = 1
 
 # parameters for Mode 1(detect by white core automatically)
 cell_max_1 = 200 # The brightest pixel in a cell bigger than this would be considered as cells.

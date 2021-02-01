@@ -2,11 +2,11 @@ First, download the executable program:
 git clone https://github.com/QibingJiang/cell_process_moffitt.git
 
 Second, run the following command,
-cd cell_process_moffitt/cell_process/
-sudo chmod a=rwx cell_process
-./cell_process configure.txt input_dir
+cd cell_process_moffitt
+sudo chmod a=rwx ./cell_process/cell_process
+./cell_process/cell_process configure.txt input_dir
 input_dir is the directory where the images are. For example, 
-./cell_process configure.txt /home/qibing/disk_t/Pt204/RawData/Beacon-2
+./cell_process/cell_process configure.txt /home/qibing/disk_t/Pt204/RawData/Beacon-2
 
 You do not need to specify output directory. The result would be put into the TimeLapseVideos folder under each patient folder. For example: "/home/qibing/disk_t/Pt204/TimeLapseVideos/"
 
