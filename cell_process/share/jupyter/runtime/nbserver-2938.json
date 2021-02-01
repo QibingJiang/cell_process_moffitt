@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/qibing",
+  "password": false,
+  "pid": 2938,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "2174a6a66017c6d3969fa504af5a3dbb0276a5ff4eac1c09",
+  "url": "http://localhost:8888/"
+}
